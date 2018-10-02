@@ -1,0 +1,87 @@
+body {
+  background-image: url("../img/fondo6.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+textarea {
+  margin: 0px;
+}
+
+.button{
+  margin-bottom: 0;
+}
+
+h5,h2{
+  font-family:  "Lucida Handwriting";
+  color: #ffffff;
+  text-shadow: 2px 2px 2px #000000;
+}
+
+label, h4{
+  color: #ad47be;
+}
+
+.medium-3 {
+  border-right: 1px solid #e5eaee;
+}
+
+.small-order-1{
+  padding-bottom: 10px;
+  background-color: #8499ac;
+  opacity: 0.9;
+  -moz-opacity: 0.9;
+  -khtml-opacity: 0.9;
+}
+
+div>.small-order-3{
+  padding-top:10px;
+  background-color: #8499ac;
+  opacity: 0.9;
+  -moz-opacity: 0.9;
+  -khtml-opacity: 0.9;
+}
+
+ .callout.alert, .callout {
+  background-color: #efdbf4;
+ }
+
+ div.row.panel{
+    background-color: #e9e175;
+ }
+
+.logo-img{
+  width: 30%;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+.list-group {
+  margin-bottom: 1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
+  color: #ad47be;
+}
+
+.list-group > :last-child {
+  margin-bottom: 0;
+}
+
+.list-group-item {
+  padding: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.list-group-item > :last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.list-group-item:hover, .list-group-item:focus {
+  background-color: #e97ac7;
+  color:#000000;
+}
